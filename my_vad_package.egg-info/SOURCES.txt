@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+my_vad/__init__.py
+my_vad/vad.py
+my_vad_package.egg-info/PKG-INFO
+my_vad_package.egg-info/SOURCES.txt
+my_vad_package.egg-info/dependency_links.txt
+my_vad_package.egg-info/requires.txt
+my_vad_package.egg-info/top_level.txt
+tests/__init__.py
+tests/test_vad.py
