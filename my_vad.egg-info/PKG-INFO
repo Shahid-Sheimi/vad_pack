@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: my-vad
+Version: 0.1.0
+Summary: A package for applying voice activity detection using Silero VAD
+Home-page: https://github.com/Shahid-Sheimi/vad_pack.git
+Author: Shahi Hussain
+Author-email: shahieed39@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# My VAD
+
+`my_vad` is a Python package for applying voice activity detection (VAD) using the Silero VAD model.
+
+## Installation
+
+You can install the package using pip:
+
+```bash
+pip install my_vad
+
+

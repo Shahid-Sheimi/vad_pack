@@ -7,12 +7,12 @@ setup(
     install_requires=[
         'torch>=1.10.0',
     ],
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Shahi Hussain',
+    author_email='shahieed39@gmail.com',
     description='A package for applying voice activity detection using Silero VAD',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/my_vad',  # Replace with your GitHub URL
+    url='https://github.com/Shahid-Sheimi/vad_pack.git',  
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',

@@ -1,10 +1,10 @@
-# my_vad_package
+# My VAD
 
-A simple VAD (Voice Activity Detection) library using Silero VAD and PyTorch.
+`my_vad` is a Python package for applying voice activity detection (VAD) using the Silero VAD model.
 
 ## Installation
 
 You can install the package using pip:
 
 ```bash
-pip install my_vad_package
+pip install my_vad
